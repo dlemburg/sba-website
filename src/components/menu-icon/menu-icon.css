@@ -1,0 +1,15 @@
+.menu-icon {
+  width: 21px;
+}
+.menu-icon > div {
+  background-color: #387ef5 !important;
+  color: #387ef5;
+  width: 18px;
+  height: 2px;
+  margin: 6px 0;
+}
+
+
+.menu-icon:hover {
+  cursor: pointer;
+}
