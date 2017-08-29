@@ -1,10 +1,20 @@
 .app-container {
-  
+  position: relative;
 }
 
 .footer {
   background-color: #e6e6e6;
-  height: 100px !important;
+  height: auto;
+  padding: 20px;
+  color: darkgray;
+}
+
+.footer > div {
+  padding: 5px;
+}
+
+.footer a {
+  color: #387ef5;
 }
 
 

@@ -10,3 +10,8 @@
 .md-check {
   color:#387ef5 !important;
 }
+
+.point {
+  font-variant: small-caps;
+  letter-spacing: 1.2px;
+}
